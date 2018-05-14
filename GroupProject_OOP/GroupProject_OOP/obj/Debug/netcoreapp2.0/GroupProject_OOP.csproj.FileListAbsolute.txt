@@ -1,0 +1,11 @@
+C:\Users\Furba\source\repos\GroupProject_OOP\GroupProject_OOP\bin\Debug\netcoreapp2.0\GroupProject_OOP.deps.json
+C:\Users\Furba\source\repos\GroupProject_OOP\GroupProject_OOP\bin\Debug\netcoreapp2.0\GroupProject_OOP.runtimeconfig.json
+C:\Users\Furba\source\repos\GroupProject_OOP\GroupProject_OOP\bin\Debug\netcoreapp2.0\GroupProject_OOP.runtimeconfig.dev.json
+C:\Users\Furba\source\repos\GroupProject_OOP\GroupProject_OOP\bin\Debug\netcoreapp2.0\GroupProject_OOP.dll
+C:\Users\Furba\source\repos\GroupProject_OOP\GroupProject_OOP\bin\Debug\netcoreapp2.0\GroupProject_OOP.pdb
+C:\Users\Furba\source\repos\GroupProject_OOP\GroupProject_OOP\obj\Debug\netcoreapp2.0\GroupProject_OOP.csprojResolveAssemblyReference.cache
+C:\Users\Furba\source\repos\GroupProject_OOP\GroupProject_OOP\obj\Debug\netcoreapp2.0\GroupProject_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Furba\source\repos\GroupProject_OOP\GroupProject_OOP\obj\Debug\netcoreapp2.0\GroupProject_OOP.AssemblyInfoInputs.cache
+C:\Users\Furba\source\repos\GroupProject_OOP\GroupProject_OOP\obj\Debug\netcoreapp2.0\GroupProject_OOP.AssemblyInfo.cs
+C:\Users\Furba\source\repos\GroupProject_OOP\GroupProject_OOP\obj\Debug\netcoreapp2.0\GroupProject_OOP.dll
+C:\Users\Furba\source\repos\GroupProject_OOP\GroupProject_OOP\obj\Debug\netcoreapp2.0\GroupProject_OOP.pdb
