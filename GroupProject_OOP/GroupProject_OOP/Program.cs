@@ -8,7 +8,6 @@ namespace GroupProject_OOP
         static void Main(string[] args)
         {
             //FURBA SHERPA - 101085699
-            //ROBERT MAGYARI - 101060341
 
             int id;
             string mainString;
